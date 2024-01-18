@@ -1,0 +1,34 @@
+body{
+    background-color: burlywood;
+}
+.order-steak{
+    padding: auto;
+}
+.number{
+    background-color: burlywood;
+    border: 1px solid #fff;
+}
+.order{
+    background-color: red;
+    color: wheat;
+    border-radius: 8px;
+    margin-top: 70px;
+    width: 150px;
+    height: 50px;
+}
+.menu {
+    background-color: #333;
+    text-align: center;
+    padding: 10px 0;
+  }
+  
+  .menu a {
+    color: #fff;
+    text-decoration: none;
+    margin: 0 10px;
+    font-weight: bold;
+  }
+  
+  .menu a:hover {
+    text-decoration: underline;
+  }

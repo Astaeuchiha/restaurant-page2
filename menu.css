@@ -1,0 +1,64 @@
+body{
+    background-color: burlywood;
+}
+.steak{
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    position: center;
+}
+.steakpng{
+    width: 350px;
+    height: 200px;
+}
+.spaghetti{
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+.spaghettipng{
+    position: center;
+    width: 350px;
+    height: 200px;
+}
+.h1{
+    text-align: center;
+    color: darkgreen;
+}
+.Shopska-Salad{
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+.shopskapng{
+    position: center;
+    width: 350px;
+    height: 200px;
+}
+.piza-pepperoni{
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+.pepperonipng{
+    position: center;
+    width: 350px;
+    height: 200px;
+}
+.menu {
+    background-color: #333;
+    text-align: center;
+    padding: 10px 0;
+  }
+  
+  .menu a {
+    color: #fff;
+    text-decoration: none;
+    margin: 0 10px;
+    font-weight: bold;
+  }
+  
+  .menu a:hover {
+    text-decoration: underline;
+  }
+
